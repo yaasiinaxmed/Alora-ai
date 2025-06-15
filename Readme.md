@@ -61,5 +61,5 @@ If you have ideas, issues, or feedback — open an Issue or submit a PR.
 
 ## 🪪 License
 
-Licensed under the MIT License.  
+Licensed under the MIT [License](https://github.com/yaasiinaxmed/Alora-ai/blob/main/LICENSE).  
 Free to use, modify, and distribute.
