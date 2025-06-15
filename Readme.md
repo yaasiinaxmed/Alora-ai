@@ -20,10 +20,10 @@ A modern, responsive ChatGPT-style interface built with **Next.js**, **Tailwind 
 
 ## 🖼️ Preview
 
-<video controls src="https://alora-ai.vercel.app/demo.mp4" title="./public/demo.mp4"></video>
+<video controls src="https://alora-ai25.vercel.app/demo.mp4" title="./public/demo.mp4"></video>
 
 🌐 **Live Demo:**  
-👉 [https://alora-ai.vercel.app](https://alora-ai.vercel.app)
+👉 [https://alora-ai25.vercel.app](https://alora-ai.vercel.app)
 
 
 ---
