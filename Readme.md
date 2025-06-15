@@ -48,14 +48,14 @@ A modern, responsive ChatGPT-style interface built with **Next.js**, **Tailwind 
 ## 🤝 Contributing
 
 Pull requests and community contributions are welcome!  
-If you have ideas, issues, or feedback — open an [Issue](https://github.com/your-username/alora-ai-ui/issues) or submit a PR.
+If you have ideas, issues, or feedback — open an Issue or submit a PR.
 
 ---
 
 ## 👤 Author
 
 **Yasin Ahmed (YasinDev)**  
-🔗 [GitHub](https://github.com/yaasiinaxmed) ・ [Twitter](https://twitter.com/yaasiinaxmed)
+🔗 [GitHub](https://github.com/yaasiinaxmed) ・ [X (Twitter)](https://x.com/yasindev25)
 
 ---
 
